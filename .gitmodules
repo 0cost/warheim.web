@@ -1,0 +1,6 @@
+[submodule "warheim.backend"]
+	path = warheim.backend
+	url = https://github.com/0cost/warheim.backend
+[submodule "warheim.frontend"]
+	path = warheim.frontend
+	url = https://github.com/0cost/warheim.frontend
